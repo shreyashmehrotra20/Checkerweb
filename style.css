@@ -1,0 +1,30 @@
+.start {
+  text-align: center;
+  background-color: rgb(247, 19, 80);
+  color: rgb(221, 245, 3);
+  height: 7vh;
+  margin-top: 2%;
+  padding-top: 1.5vh;
+}
+body {
+  background-color: orange;
+}
+.checker {
+  margin: 2% auto;
+  background-color: rgb(247, 19, 80);
+  width: 50%;
+  height: fit-content;
+  padding: 3vh;
+}
+.form-group label {
+  color: rgb(221, 245, 3);
+  font-size: 100%;
+  font-weight: bolder;
+}
+.submit {
+  color: rgb(221, 245, 3);
+  background-color: rgb(247, 19, 80);
+}
+.alli {
+  color: black;
+}
